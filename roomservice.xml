@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!--Device tree-->
+  <project name="WindowsDev2021/android_vendor_microsoft_dempsey" path="vendor/microsoft/dempsey" revision="cm-14.1" remote="github"/>
+  <project name="WindowsDev2021/linux" path="kernel/microsoft/dempsey" revision="msm8x26-touchscreen" remote="github"/>
+  <project name="WindowsDev2021/android_device_microsoft_dempsey" path="device/microsoft/dempsey" revision="cm-14.1" remote="github"/>
+</manifest>
