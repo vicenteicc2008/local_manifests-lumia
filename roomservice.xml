@@ -2,5 +2,6 @@
 <manifest>
   <!--Device tree-->
   <project name="WindowsDev2021/android_vendor_microsoft_dempsey" path="vendor/msft/dempsey" revision="main" remote="github"/>
+  <project name="WindowsDev2021/linux" path="kernel/microsoft/dempsey" revision="msm8x26-touchscreen" remote="github"/>
   <project name="WindowsDev2021/android_device_microsoft_dempsey" path="device/msft/dempsey" revision="main" remote="github"/>
 </manifest>
